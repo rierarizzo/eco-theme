@@ -1,0 +1,26 @@
+{
+	"name": "eco-theme",
+	"displayName": "Eco Theme",
+	"description": "Eco Theme",
+	"publisher": "kenethriera",
+	"version": "0.0.1",
+	"icon": "images/logo.png",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": ["Themes"],
+	"keywords": ["vscode", "theme", "eco"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kenethrrizzo/eco-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Eco Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eco-color_theme.json"
+			}
+		]
+	}
+}
