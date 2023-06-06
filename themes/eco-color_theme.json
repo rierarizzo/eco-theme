@@ -52,14 +52,18 @@
 			}
 		},
 		{
-			"scope": ["keyword", "storage.modifier.rust"],
+			"scope": [
+				"keyword",
+				"storage.modifier.rust"
+			],
 			"settings": {
 				"foreground": "#7ca1b9"
 			}
 		},
 		{
 			"scope": [
-				"comment", "comment.line.double-slash.go",
+				"comment",
+				"comment.line.double-slash.go",
 				"punctuation.definition.comment.go"
 			],
 			"settings": {
@@ -68,7 +72,8 @@
 		},
 		{
 			"scope": [
-				"constant.numeric", "variable.language",
+				"constant.numeric",
+				"variable.language",
 				"punctuation.definition.interpolation.rust"
 			],
 			"settings": {
@@ -76,17 +81,28 @@
 			}
 		},
 		{
-			"scope": ["entity.name.function", "support.function.go"],
+			"scope": [
+				"entity.name.function",
+				"support.function.go",
+				"support.type.property-name.table.toml",
+				"punctuation.definition.table.toml"
+			],
 			"settings": {
 				"foreground": "#cc6666"
 			}
 		},
 		{
 			"scope": [
-				"keyword.operator", "storage.type.rust", "meta.attribute.rust",
-				"variable.language.rust", "storage.type.module.rust",
-				"storage.modifier.mut.rust", "support.type.property-name.json",
-				"support.type.property-name.json punctuation", "storage.modifier.sql"
+				"keyword.operator",
+				"storage.type.rust",
+				"meta.attribute.rust",
+				"variable.language.rust",
+				"storage.type.module.rust",
+				"storage.modifier.mut.rust",
+				"support.type.property-name.json",
+				"support.type.property-name.json punctuation",
+				"storage.modifier.sql",
+				"support.type.property-name.toml"
 			],
 			"settings": {
 				"foreground": "#7fa1bd"
@@ -94,7 +110,9 @@
 		},
 		{
 			"scope": [
-				"entity.name.type", "storage.type.sql", "storage.type.string.go",
+				"entity.name.type",
+				"storage.type.sql",
+				"storage.type.string.go",
 				"storage.type"
 			],
 			"settings": {
@@ -114,13 +132,19 @@
 			}
 		},
 		{
-			"scope": ["source.rust keyword.control", "keyword.control.go"],
+			"scope": [
+				"source.rust keyword.control",
+				"keyword.control.go"
+			],
 			"settings": {
 				"foreground": "#bd7f7f"
 			}
 		},
 		{
-			"scope": ["string", "punctuation.definition.string"],
+			"scope": [
+				"string",
+				"punctuation.definition.string"
+			],
 			"settings": {
 				"foreground": "#c4c5a2"
 			}
