@@ -102,6 +102,7 @@
 				"support.type.property-name.json",
 				"support.type.property-name.json punctuation",
 				"storage.modifier.sql",
+				"storage.modifier.java",
 				"support.type.property-name.toml"
 			],
 			"settings": {
