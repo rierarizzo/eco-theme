@@ -85,7 +85,8 @@
 				"entity.name.function",
 				"support.function.go",
 				"support.type.property-name.table.toml",
-				"punctuation.definition.table.toml"
+				"punctuation.definition.table.toml",
+				"keyword.control.at-rule.media.css"
 			],
 			"settings": {
 				"foreground": "#cc6666"
@@ -104,9 +105,12 @@
 				"storage.modifier.sql",
 				"storage.modifier.java",
 				"punctuation.definition.entity.css",
+				"entity.other.attribute-name.class.css",
+				"entity.name.tag.css",
+				"entity.other.attribute-name.id.css",
 				"entity.other.attribute-name.pseudo-class.css",
 				"support.type.property-name.toml",
-				"torage.modifier.async.tsx"
+				"storage.modifier.async.tsx"
 			],
 			"settings": {
 				"foreground": "#7fa1bd"
@@ -117,14 +121,18 @@
 				"entity.name.type",
 				"storage.type.sql",
 				"storage.type.string.go",
-				"storage.type"
+				"storage.type",
+				"meta.at-rule.media.header.css"
 			],
 			"settings": {
 				"foreground": "#8abeb7"
 			}
 		},
 		{
-			"scope": "variable.other",
+			"scope": [
+				"variable.other",
+				"meta.property-name.css"
+			],
 			"settings": {
 				"foreground": "#eaeaead0"
 			}
