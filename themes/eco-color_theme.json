@@ -90,7 +90,8 @@
 				"meta.tag.tsx",
 				"meta.tag.without-attributes.tsx",
 				"entity.name.tag.html",
-				"punctuation.definition.tag.begin.html"
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
 				"foreground": "#cc6666"
