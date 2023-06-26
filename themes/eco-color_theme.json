@@ -87,7 +87,8 @@
 				"support.type.property-name.table.toml",
 				"punctuation.definition.table.toml",
 				"keyword.control.at-rule.media.css",
-				"meta.tag.tsx"
+				"meta.tag.tsx",
+				"meta.tag.without-attributes.tsx"
 			],
 			"settings": {
 				"foreground": "#cc6666"
