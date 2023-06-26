@@ -88,7 +88,9 @@
 				"punctuation.definition.table.toml",
 				"keyword.control.at-rule.media.css",
 				"meta.tag.tsx",
-				"meta.tag.without-attributes.tsx"
+				"meta.tag.without-attributes.tsx",
+				"entity.name.tag.html",
+				"punctuation.definition.tag.begin.html"
 			],
 			"settings": {
 				"foreground": "#cc6666"
@@ -127,7 +129,8 @@
 				"storage.type.string.go",
 				"storage.type",
 				"meta.at-rule.media.header.css",
-				"meta.tag.attributes.tsx"
+				"meta.tag.attributes.tsx",
+				"entity.other.attribute-name.html"
 			],
 			"settings": {
 				"foreground": "#8abeb7"
