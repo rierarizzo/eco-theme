@@ -103,7 +103,10 @@
 				"support.type.property-name.json punctuation",
 				"storage.modifier.sql",
 				"storage.modifier.java",
-				"support.type.property-name.toml"
+				"punctuation.definition.entity.css",
+				"entity.other.attribute-name.pseudo-class.css",
+				"support.type.property-name.toml",
+				"torage.modifier.async.tsx"
 			],
 			"settings": {
 				"foreground": "#7fa1bd"
@@ -144,7 +147,9 @@
 		{
 			"scope": [
 				"string",
-				"punctuation.definition.string"
+				"punctuation.definition.string",
+				"meta.property-value.css",
+				"meta.property-list.css"
 			],
 			"settings": {
 				"foreground": "#c4c5a2"
