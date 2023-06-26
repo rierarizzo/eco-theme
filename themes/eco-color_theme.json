@@ -112,7 +112,8 @@
 				"entity.other.attribute-name.pseudo-class.css",
 				"support.type.property-name.toml",
 				"storage.modifier.async.tsx",
-				"meta.function.tsx"
+				"storage.type.function.tsx",
+				"storage.type.tsx"
 			],
 			"settings": {
 				"foreground": "#7fa1bd"
@@ -134,7 +135,8 @@
 		{
 			"scope": [
 				"variable.other",
-				"meta.property-name.css"
+				"meta.property-name.css",
+				"meta.jsx.children.tsx"
 			],
 			"settings": {
 				"foreground": "#eaeaead0"
