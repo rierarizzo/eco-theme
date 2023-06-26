@@ -86,7 +86,8 @@
 				"support.function.go",
 				"support.type.property-name.table.toml",
 				"punctuation.definition.table.toml",
-				"keyword.control.at-rule.media.css"
+				"keyword.control.at-rule.media.css",
+				"meta.tag.tsx"
 			],
 			"settings": {
 				"foreground": "#cc6666"
@@ -110,7 +111,8 @@
 				"entity.other.attribute-name.id.css",
 				"entity.other.attribute-name.pseudo-class.css",
 				"support.type.property-name.toml",
-				"storage.modifier.async.tsx"
+				"storage.modifier.async.tsx",
+				"meta.function.tsx"
 			],
 			"settings": {
 				"foreground": "#7fa1bd"
@@ -122,7 +124,8 @@
 				"storage.type.sql",
 				"storage.type.string.go",
 				"storage.type",
-				"meta.at-rule.media.header.css"
+				"meta.at-rule.media.header.css",
+				"meta.tag.attributes.tsx"
 			],
 			"settings": {
 				"foreground": "#8abeb7"
