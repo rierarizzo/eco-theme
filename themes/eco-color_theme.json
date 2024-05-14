@@ -131,7 +131,8 @@
 				"storage.type",
 				"meta.at-rule.media.header.css",
 				"meta.tag.attributes.tsx",
-				"entity.other.attribute-name.html"
+				"entity.other.attribute-name.html",
+				"meta.declaration.annotation.java"
 			],
 			"settings": {
 				"foreground": "#8abeb7"
