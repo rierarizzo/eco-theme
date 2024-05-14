@@ -142,7 +142,9 @@
 			"scope": [
 				"variable.other",
 				"meta.property-name.css",
-				"meta.jsx.children.tsx"
+				"meta.jsx.children.tsx",
+				"constant.other.key.java",
+				"constant.language.java"
 			],
 			"settings": {
 				"foreground": "#eaeaead0"

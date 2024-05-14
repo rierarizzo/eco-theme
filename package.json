@@ -3,7 +3,7 @@
 	"displayName": "Eco Theme",
 	"description": "Eco Theme",
 	"publisher": "kenethriera",
-	"version": "0.0.13",
+	"version": "0.0.14",
 	"icon": "images/logo2.png",
 	"engines": {
 		"vscode": "^1.60.0"
